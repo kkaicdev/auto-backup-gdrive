@@ -1,4 +1,4 @@
-# auto-backup-gdriver
+# auto-backup-gdrive
 It's a small script that uploads files using the Google Drive API. Simple, but it saves you from some headaches!
 
 ## Instructions:
