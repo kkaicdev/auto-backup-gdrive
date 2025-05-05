@@ -29,6 +29,6 @@ it will be a credentials.json, and you need to place it in the same folder as th
                                                                                                                                            
 ## 🚀 Usage:
 
-python main.py --directory /your/path/folder [--name custom_folder_name]
+python main.py --directory /your/path/folder --name custom_folder_name
                                                                                                                                            
                                                                                                                                           
