@@ -13,16 +13,17 @@ This Python script automates the backup of a local directory to a Google Drive f
 ## 📦 Requirements
 
 - Python 3.7+
+- Python packages (see `requirements.txt`):
 - Google Cloud credentials file (`credentials.json`)
 
 ### 🔌 Python Dependencies:
 
-Install required packages using:
+Install dependencies from requirements.txt in a virtual environment:
 pip install -r requirements.txt
 
-### 🔌 Instructions:
+### 🔌 Google Cloud credentials:
 
-To use this project, you'll need your own Google Drive API key, which can be easily obtained at: [here](https://console.cloud.google.com/). 
+To use this project, you'll need your own Google Drive API key, which can be easily obtained at: [here](https://console.cloud.google.com/)
 
 it will be a credentials.json, and you need to place it in the same folder as the main file.
                                                                                                                                            
